@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second-year Computer Science student with interests in Web Development and Machine Learning Models.<br>As of now, I'm still very new in the field and hoping to find like-minded people and opportunities<br>that can help me improve my skills and abilities.
+I'm a third-year Computer Science student with interests in Web Development and Machine Learning Models.<br>As of now, I'm still very new in the field and hoping to find like-minded people and opportunities<br>that can help me improve my skills and abilities.
 
 
 ## 🌐 Socials:
